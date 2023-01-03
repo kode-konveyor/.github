@@ -120,7 +120,7 @@ Actually the process design was heavily built on the Agile Architecture approach
 
 ## There must be same drawbacks!
 
-Yes. The process can handle usual greenfield business applications, with the backend using Java/Spring, and the frontend using TypeScript/Angular (on platforms supported by cordova).
+Yes. The process can handle usual greenfield business applications, with the backend using Java/Spring, and the frontend using TypeScript/Angular (to platforms supported by cordova).
 
 There are only a few ecosystems which have the basic tooling needed for it, and figuring out the ecosystem-specific rules, and supporting them with technology is a great work.
 Python, C#, C++ and probably a very short list of other languages have the potential to be covered.
