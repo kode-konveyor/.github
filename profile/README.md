@@ -58,7 +58,7 @@ Our end goal is to cover all of them with a profession with its own rules, but f
 
 Coding is the part where you turn a lot of very small behaviours into tests and code, where the interfaces are formally defined, while the behaviours are described in human language.
 
-The creative part is to turn that human language to test cases. (Writing the tests after that is mechanical, an IDE with good refactors does most of it for you, and probably soon will entirely done by AI.)
+The creative part is to turn that human language to test cases. (Writing the tests after that is mechanical, an IDE with good refactors does most of it for you, and probably soon will be entirely done by AI.)
 
 ## Coders can choose where, what and how much? It is anarchy!
 
@@ -67,6 +67,8 @@ the resulting code can be merged without conflicts,
 no need for communication between Coders, very little between the Coders and reviewers, so if enough Coders work on a project, 
 its speed will follow the average activity level of people.
 Maybe slowing down at weekends and holidays, but the project will roll forward.
+
+Actually when we tested out the approach there were times the Coders ate the tasks faster than we could design them.
 
 ### Aha! Here is the catch! Code merged without conflicts? No need for communication? It is impossible.
 
