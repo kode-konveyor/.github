@@ -134,7 +134,16 @@ There are application domains for which this approach is not adequate. You proba
 
 ## I love this, where can I start working as a Coder (Business Analyst, Low Level designer, Reviewer)/ will you take and develop my project?
 
-There are a lot of work ahead yet.
-A lot of things have yet to be figured out, developed and corecctly rewritten.
+There is a lot of work ahead yet.
+A lot of things have yet to be figured out, developed and corecctly rewritten. And online courses should be made for the professions.
 Probably we will be able to start some projects soon as learning exercises, but probably the first ones will be open source ones, and the portal itself supporting the process.
+
+But we are looking for sweat equity cofounders. If you are excited by our vision, have a strong independent personality, and have excellent skills either in
+- at least three of Java, TypeScript, XSLT and architecture.
+- creating online learning courses
+- architecture modeling
+- XSLT
+- DevOps
+- or management and administration
+you can work with us a lot for free and shares.
 
