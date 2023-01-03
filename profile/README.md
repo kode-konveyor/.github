@@ -1,4 +1,4 @@
-# Making coding a real profession, producing rock solid code, accessible for people with average level of skills, while coders can choose where, what, and how much are they work.
+# Making coding a real profession, producing rock solid code, accessible for people with average level of skills, while Coders can choose where, what, and how much are they work.
 
 ## Wait, programming is a real profession, innit?
 
@@ -35,7 +35,7 @@ and the only higher level is EAL7, where the design must be fully formal, and th
 
 ### Ho-ho, 100% mutation coverage? Are you kidding?
 
-I kid you not. The code layout standard is specifically designed to make it possible. No need to use non-testable constructs for the coders.
+I kid you not. The code layout standard is specifically designed to make it possible. No need to use non-testable constructs for the Coders.
 Those are mostly eliminated, and the very few remaining things are moved out of scope, as part of the standard nonmodified project boilerplate.
 
 ## Everyone can be a programmer with some learning, no?
@@ -64,7 +64,7 @@ The creative part is to turn that human language to test cases. (Writing the tes
 
 Well, those small behaviours are ... small, so coding one needs very short time,
 the resulting code can be merged without conflicts,
-no need for communication between coders, very little between the coders and reviewers, so if enough coders work on a project, 
+no need for communication between Coders, very little between the Coders and reviewers, so if enough Coders work on a project, 
 its speed will follow the average activity level of people.
 Maybe slowing down at weekends and holidays, but the project will roll forward.
 
@@ -74,13 +74,13 @@ The code layout standard is designed in a way - by heavy use of dependence inver
 and those places are essentially lists of items with clear rules of ordering, so conflicts can be automatically solved.
 
 Remember the part about professional rules?
-The tasks given to the coders are defined to the level that there are no real room for misunderstandings,
+The tasks given to the Coders are defined to the level that there are no real room for misunderstandings,
 and the standards of the resulting code are so strict that every single aspect can be automatically checked,
-so the coder gets the feedback from the static code analyzer in the IDE, and the CI.
+so the Coder gets the feedback from the static code analyzer in the IDE, and the CI.
 
 As the creative part of the coding is translating the behaviour description to tests, it is the only place where there can be place for communication.
 But the tasks are very small, specifying the behaviour of corner cases is the job of the low-level designer (who creates those tasks).
-Well, the coder is motivated to find more corner cases (see quality), as paid by the number of test cases, but if those do not conflict with the specification of the LLD, then will be accepted.
+Well, the Coder is motivated to find more corner cases (see quality), as paid by the number of test cases, but if those do not conflict with the specification of the LLD, then will be accepted.
 The only room for misunderstanding here is by different interpretations of the same written sentence, but as the concepts of the project and the intent of the code is thoroughly and semiformally defined, this room is rather small.
 
 ## This coding thing... You kill the creativity from programming. As a programmer I hate it!
@@ -94,11 +94,11 @@ Before that you needed a couple of very good engineers to build a car. After tha
 
 And the engineers could concentrate on the real creative work of designing the cars. And Ford gave good salaries to the workers, and provided them with other rights.
 
-Kode konveyor gives the coders the freedom of where, when and how much, and we fully intend to build functionalities to the portal which enables coders to effectively organize.
+Kode konveyor gives the Coders the freedom of where, when and how much, and we fully intend to build functionalities to the portal which enables Coders to effectively organize.
 
-Because we believe not just that this approach revolutionizes the software industry, but want to stay on the edge of the wave. And the strategy for that is that we provide the best environment for the coders, so they do not want to work at other places.
+Because we believe not just that this approach revolutionizes the software industry, but want to stay on the edge of the wave. And the strategy for that is that we provide the best environment for the Coders, so they do not want to work at other places.
 
-## Okay, you were talking about coders, but they do a small subset of the programming work, what about the others?
+## Okay, you were talking about Coders, but they do a small subset of the programming work, what about the others?
 
 We have already tested the whole process, so we have some understanding of what is involved. We identified some professions. We named them Business Analyst, Low Level Designer, Coder, Reviewer and Graphics designer.
 
@@ -130,7 +130,7 @@ But it can be showstopper for an embedded system.
 
 There are application domains for which this approach is not adequate. You probably do not want to use it for number crunching, AI, and system programming. But probably it is okay for their user/management interface.
 
-## I love this, where can I start working as a coder (Business Analyst, Low Level designer, Reviewer)/ will you take and develop my project?
+## I love this, where can I start working as a Coder (Business Analyst, Low Level designer, Reviewer)/ will you take and develop my project?
 
 There are a lot of work ahead yet.
 A lot of things have yet to be figured out, developed and corecctly rewritten.
